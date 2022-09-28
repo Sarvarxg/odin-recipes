@@ -1,1 +1,2 @@
 # odin-recipes
+Ovqatlarni retsipi
